@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "GillSansMT";
+    src: url("GillSansMT.ttf") format("truetype"), url("GillSansMT.woff2") format("woff2"), url("GillSansMT.woff") format("woff");
+}
+
+@font-face {
+    font-family: "SilverSouthScript";
+    src: url("SilverSouthScript.ttf") format("truetype"), url("SilverSouthScript.woff2") format("woff2"), url("SilverSouthScript.woff") format("woff");
+}
+
+@font-face {
+    font-family: "SilverSouthScriptAlt";
+    src: url("SilverSouthScriptAlt.ttf") format("truetype"), url("SilverSouthScriptAlt.woff2") format("woff2"), url("SilverSouthScriptAlt.woff") format("woff");
+}

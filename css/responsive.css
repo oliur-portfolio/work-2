@@ -1,0 +1,454 @@
+@media (min-width: 1921px) {
+    .texture-parallax {
+        width: 60vw;
+        height: 180vh;
+    }
+}
+
+@media (max-width: 1630px) {
+    .banner-wrapper {
+        height: 800px;
+    }
+
+    .banner-text-contain {
+        width: 550px;
+    }
+
+    .engaged-box {
+        width: 580px;
+    }
+}
+
+@media (max-width: 1199.98px) {
+    .header-logo svg {
+        width: 170px;
+        height: 80px;
+    }
+
+    .banner-wrapper {
+        height: 680px;
+    }
+
+    .banner-text-contain {
+        padding: 40px 34px;
+        width: 450px;
+    }
+
+    .banner-hero-text h1 {
+        font-size: 30px;
+        margin-bottom: 24px;
+    }
+
+    .banner-description h4 {
+        font-size: 22px;
+        margin-bottom: 30px;
+    }
+
+    .banner-text-box {
+        width: 375px;
+    }
+
+    .engaged-box {
+        padding: 46px 26px;
+        width: 530px;
+    }
+
+    .engaged-header-text h2 {
+        font-size: 30px;
+    }
+
+    .engaged-description h4 {
+        font-size: 22px;
+        margin-top: 26px;
+    }
+
+    .engaged-description h4::before {
+        bottom: -25px;
+    }
+
+    .engaged-paragraph-text p {
+        font-size: 14px;
+        margin-top: 50px;
+        margin-bottom: 30px;
+    }
+
+    .pink-area {
+        height: 700px;
+    }
+
+    .about-us-white {
+        height: 1160px;
+    }
+
+    .texture-parallax {
+        width: 900px;
+        height: 1400px;
+    }
+
+    .about-header-text h2 {
+        font-size: 46px;
+    }
+
+    .about-header-intro h5 {
+        font-size: 20px;
+        width: 590px;
+        margin-top: 30px;
+        margin-bottom: 50px;
+    }
+
+    .about-header-intro h5::before {
+        bottom: -25px;
+    }
+
+    .about-bottom-header h3 {
+        font-size: 24px;
+    }
+
+    .about-content {
+        padding: 60px;
+    }
+
+    .about-box-contain {
+        width: 800px;
+    }
+
+    .footer-area {
+        bottom: 35px;
+    }
+}
+
+@media (max-width: 991.98px) {
+    .header-logo svg {
+        width: 150px;
+        height: 70px;
+    }
+
+    .banner-wrapper {
+        height: 600px;
+    }
+    .banner-text-contain {
+        width: 350px;
+        padding: 30px 30px;
+    }
+
+    .banner-text-box {
+        width: 300px;
+    }
+
+    .banner-hero-text h1 {
+        font-size: 24px;
+        margin-bottom: 18px;
+    }
+
+    .banner-description h4 {
+        font-size: 20px;
+        margin-bottom: 22px;
+    }
+
+    .reusable-btn a {
+        font-size: 14px;
+        width: 180px;
+        height: 42px;
+    }
+
+    .join-header-text h3 {
+        font-size: 48px;
+    }
+
+    .form-display .form-control {
+        width: 220px;
+        height: 40px;
+    }
+
+    .form-btn {
+        width: 132px;
+        height: 40px;
+    }
+
+    .engaged-header-text h2 {
+        font-size: 24px;
+    }
+
+    .engaged-description h4 {
+        font-size: 20px;
+        margin-top: 18px;
+    }
+
+    .engaged-paragraph-text p {
+        font-size: 15px;
+        line-height: 1.3;
+        margin-bottom: 22px;
+    }
+
+    .engaged-paragraph-text p br {
+        margin-bottom: 10px;
+    }
+
+    .engaged-content {
+        width: 350px;
+    }
+
+    .engaged-box {
+        padding: 36px 20px;
+        width: 410px;
+    }
+
+    .pink-area {
+        height: 600px;
+    }
+
+    .texture-parallax {
+        width: 800px;
+        height: 1400px;
+        top: 50px;
+        right: -200px;
+    }
+
+    .about-header-text h2 {
+        font-size: 40px;
+    }
+
+    .about-header-intro h5 {
+        font-size: 18px;
+        width: 490px;
+        margin-top: 20px;
+        margin-bottom: 40px;
+    }
+
+    .about-header-intro h5::before {
+        bottom: -20px;
+    }
+
+    .about-box-contain {
+        width: 640px;
+    }
+
+    .about-content {
+        padding: 40px;
+    }
+
+    .about-header-description p {
+        font-size: 17px;
+    }
+
+    .about-bottom-header h3 {
+        font-size: 22px;
+    }
+
+    .about-bottom-header {
+        width: 400px;
+        margin-top: 40px;
+        margin-bottom: 30px;
+    }
+
+    .about-us-white {
+        height: 1020px;
+    }
+
+    .footer-area {
+        bottom: 30px;
+    }
+
+    .bottom-texture {
+        width: 1000px;
+        height: 300px;
+    }
+}
+
+@media (max-width: 767.98px) {
+    .header-logo svg {
+        width: 130px;
+        height: 60px;
+    }
+
+    .banner-wrapper {
+        height: 500px;
+    }
+
+    .banner-text-contain {
+        width: 280px;
+        padding: 24px 22px;
+    }
+
+    .banner-text-box {
+        width: 250px;
+    }
+
+    .banner-hero-text h1 {
+        font-size: 20px;
+        margin-bottom: 14px;
+    }
+
+    .banner-description h4 {
+        font-size: 18px;
+        margin-bottom: 18px;
+    }
+
+    .form-display {
+        flex-direction: column;
+    }
+
+    .name-group {
+        margin-right: 0;
+    }
+
+    .email-group {
+        margin-left: 0;
+        margin-top: 20px;
+    }
+
+    .form-display .form-control {
+        width: 100%;
+        height: 50px;
+    }
+
+    .form-btn {
+        margin: 0 auto;
+        margin-top: 20px;
+        width: 200px;
+        height: 55px;
+    }
+
+    .pink-area {
+        height: 700px;
+    }
+
+    .texture-parallax {
+        top: 50px;
+    }
+
+    .engaged-box {
+        width: 360px;
+    }
+
+    .engaged-content {
+        width: 300px;
+    }
+
+    .about-box-contain {
+        width: 460px;
+    }
+
+    .about-header-intro h5 {
+        width: 330px;
+    }
+
+    .about-bottom-header {
+        width: 300px;
+        margin-top: 25px;
+        margin-bottom: 20px;
+    }
+
+    .about-us-white {
+        height: 1180px;
+    }
+
+    .footer-area {
+        bottom: 18px;
+    }
+
+    .footer-content p {
+        text-align: center;
+        line-height: 1.4;
+    }
+
+    .bottom-texture {
+        width: 750px;
+        height: 250px;
+    }
+}
+
+@media (max-width: 575.98px) {
+    .header-area {
+        padding: 24px 0;
+    }
+
+    .header-logo {
+        text-align: left !important;
+    }
+
+    .header-logo svg {
+        width: 110px;
+        height: 54px;
+    }
+
+    .banner-wrapper {
+        background-position: left;
+    }
+
+    .banner-text-contain {
+        bottom: 20px;
+        top: auto;
+        transform: translate(0);
+        -webkit-transform: translate(0);
+        -moz-transform: translate(0);
+        -ms-transform: translate(0);
+        -o-transform: translate(0);
+    }
+
+    .join-header-text h3 {
+        font-size: 44px;
+    }
+
+    .join-header-text p {
+        margin-top: 20px;
+        line-height: 1.4;
+    }
+
+    .form-btn {
+        height: 50px;
+    }
+
+    .engaged-box {
+        width: 280px;
+    }
+
+    .engaged-content {
+        width: 230px;
+    }
+
+    .engaged-header-text h2 {
+        font-size: 22px;
+    }
+
+    .pink-area {
+        height: 700px;
+    }
+
+    .texture-parallax {
+        width: 780px;
+        height: 1200px;
+        top: 350px;
+        right: -300px;
+    }
+
+    .about-us-white {
+        height: 1600px;
+    }
+
+    .about-content {
+        padding: 30px;
+    }
+
+    .about-box-contain {
+        width: 260px;
+    }
+
+    .about-header-intro h5 {
+        width: 200px;
+    }
+
+    .about-header-description p {
+        font-size: 16px;
+        margin-bottom: 18px;
+    }
+
+    .about-bottom-header {
+        width: 200px;
+        margin-top: 60px;
+    }
+
+    .about-bottom-header h3 {
+        font-size: 18px;
+    }
+}
